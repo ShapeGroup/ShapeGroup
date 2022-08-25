@@ -91,6 +91,7 @@ hgroup,
 footer,
 aside {
     display: block;
+    max-width: 100%;
 }
 
 video,
@@ -236,6 +237,7 @@ address /*for credit card of article tag*/ {
 
 p {
     display: inline-block;
+    width: 100%;
 }
 
 ul, /*unorder list*/
