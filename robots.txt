@@ -1,0 +1,4 @@
+sitemap:   https://bertz.tech/sitemap.xml
+sitemap:   http://bertz.tech/sitemap.xml
+User-agent:*
+#Crawl-delay: 2

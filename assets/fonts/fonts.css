@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Black Italic'),
+         local('CenturyGothicPaneuropean-BlackIt'),
+         url('subset-CenturyGothicPaneuropean-BlackIt.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Black'),
+         local('CenturyGothicPaneuropean-Black'),
+         url('subset-CenturyGothicPaneuropean-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean ExtBd';
+    src: local('Century Gothic Paneuropean ExtraBold'),
+         local('CenturyGothicPaneuropean-ExtraBold'),
+         url('subset-CenturyGothicPaneuropean-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Bold'),
+         local('CenturyGothicPaneuropean-Bold'),
+         url('subset-CenturyGothicPaneuropean-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Bold Italic'),
+         local('CenturyGothicPaneuropean-BoldItalic'),
+         url('subset-CenturyGothicPaneuropean-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Light'),
+         local('CenturyGothicPaneuropean-Light'),
+         url('subset-CenturyGothicPaneuropean-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean ExtBd';
+    src: local('Century Gothic Paneuropean ExtraBold Italic'),
+         local('CenturyGothicPaneuropean-XtraBoldIt'),
+         url('subset-CenturyGothicPaneuropean-XtraBoldIt.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Italic'),
+         local('CenturyGothicPaneuropean-Italic'),
+         url('subset-CenturyGothicPaneuropean-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean'),
+         local('CenturyGothicPaneuropean'),
+         url('subset-CenturyGothicPaneuropean.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean SemBd';
+    src: local('Century Gothic Paneuropean SemiBold'),
+         local('CenturyGothicPaneuropean-SemiBold'),
+         url('subset-CenturyGothicPaneuropean-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean';
+    src: local('Century Gothic Paneuropean Light Italic'),
+         local('CenturyGothicPaneuropean-LightIt'),
+         url('subset-CenturyGothicPaneuropean-LightIt.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Paneuropean SemBd';
+    src: local('Century Gothic Paneuropean SemiBold Italic'),
+         local('CenturyGothicPaneuropean-SemiBoldIt'),
+         url('subset-CenturyGothicPaneuropean-SemiBoldIt.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+

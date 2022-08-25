@@ -1,0 +1,13 @@
+<svg width="551" height="38" viewBox="0 0 551 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="56" y="18" width="438" height="2" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 509 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 523 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 537 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 551 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 7 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 21 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 35 18)" fill="#F0F0F0"/>
+<rect width="7" height="2" transform="matrix(-1 0 0 1 49 18)" fill="#F0F0F0"/>
+<path d="M294 18.6463C294 15.7112 278.233 -6.89177e-07 275.288 -8.17925e-07C272.343 -9.46672e-07 256.576 15.7112 256.576 18.6463C256.576 21.5814 272.343 37.2926 275.288 37.2926C278.233 37.2793 294 21.5814 294 18.6463Z" fill="#6AFFFF"/>
+<path d="M275.788 24.9518L269 18.1636M275.788 24.9518V10.2307M275.788 24.9518L282.576 18.1636" stroke="#F9F9F9" stroke-width="4"/>
+</svg>
