@@ -1,4 +1,4 @@
-sitemap:   https://bertz.tech/sitemap.xml
-sitemap:   http://bertz.tech/sitemap.xml
+sitemap:   https://shapedigital.it/sitemap.xml
+sitemap:   http://shapedigital.it/sitemap.xml
 User-agent:*
 #Crawl-delay: 2
