@@ -90,8 +90,10 @@ header,
 hgroup,
 footer,
 aside {
-    display: block;
-    max-width: 100%;
+    /* display: block;
+    max-width: 100%; */
+    display: grid;
+    align-content: space-between;
 }
 
 video,
